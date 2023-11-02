@@ -22,6 +22,10 @@ class _DetailsPageState extends State<DetailsPage> {
         ),
         centerTitle: true,
       ),
+      body: SafeArea(child: Column(
+        children: [
+        ],
+      )),
     );
   }
 }
