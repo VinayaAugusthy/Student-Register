@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:student_registration/contoller/methods.dart';
+import 'package:student_registration/widgets/methods.dart';
 import 'package:student_registration/utils/constants/colors.dart';
 import 'package:student_registration/utils/constants/constants.dart';
 
